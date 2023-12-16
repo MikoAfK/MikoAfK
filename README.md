@@ -13,17 +13,26 @@ Desarrollador de Software y amante del café ☕❤
 - 💵 Necesito chamba :c
 
 ### Tecnologías que manejo
+- ## MERN STACK
 <div style="display:flex;">
-  <img width="200" height="200" src="img/javascript.png"/>
-  <img width="200" height="200" src="img/react.png"/>
-  <img width="200" height="200" src="img/nodejs.png"/>
-  <img width="200" height="200" src="img/express.png"/>
-  <img width="200" height="200" src="img/materialui.png"/>
-  <img width="200" height="200" src="img/tailwindcss.png"/>
-  <img width="200" height="200" src="img/csharp.png"/>
-  <img width="200" height="200" src="img/unity.png"/>
-  <img width="200" height="200" src="img/discordjs.png"/>
-  <img width="200" height="200" src="img/discordjs.png"/>
-  <img width="200" height="200" src="img/discordjs.png"/>
-  <img width="200" height="200" src="img/discordjs.png"/>
+  <img width="200" src="img/mongodb.png"/>
+  <img width="200" src="img/express.png"/>
+  <img width="200" src="img/react.png"/>
+  <img width="200" src="img/nodejs.png"/>
+</div>
+
+- ## Lenguajes
+<div style="display:flex;">
+  <img width="200" src="img/javascript.png"/>
+  <img width="200" src="img/csharp.png"/>
+  <img width="200" src="img/html5.png"/>
+  <img width="200" src="img/css3.png"/>
+</div>
+
+- ## Frameworks, librerias y motores
+<div style="display:flex;">
+  <img width="200" src="img/unity.png"/>
+  <img width="200" src="img/materialui.png"/>
+  <img width="200" src="img/tailwindcss.png"/>
+  <img width="200" src="img/discordjs.png"/>
 </div>
