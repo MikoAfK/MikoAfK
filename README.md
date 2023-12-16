@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**Mikoafk/mikoafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Miko
+Desarrollador de Software y amante del café ☕❤
+<br/>
+### Un poco sobre mí
+- 👤 Mi nombre real es Michael.
+- ☕ Amo el café jeje.
+- 🧑 Tengo 16 años.
+- 💻 Me dedico al desarrollo de páginas web, bots de Discord y juegos 2D.
+- 🎵 Mi genero de música favorito es Dubstep.
+- 🎹 Me gusta el piano.
+- 🎮 Mis juegos favoritos es Osu! y Minecraft.
+- ❤ Mi amor por la programación empezó a mis 11 años.
+- 💵 Necesito chamba :c
+<br/>
