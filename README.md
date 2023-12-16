@@ -1,6 +1,6 @@
 # Miko
 Desarrollador de Software y amante del café ☕❤
-<br/>
+
 ### Un poco sobre mí
 - 👤 Mi nombre real es Michael.
 - ☕ Amo el café jeje.
@@ -11,4 +11,19 @@ Desarrollador de Software y amante del café ☕❤
 - 🎮 Mis juegos favoritos es Osu! y Minecraft.
 - ❤ Mi amor por la programación empezó a mis 11 años.
 - 💵 Necesito chamba :c
-<br/>
+
+### Tecnologías que manejo
+<div style="display:flex;">
+  <img width="200" height="200" src="img/javascript.png"/>
+  <img width="200" height="200" src="img/react.png"/>
+  <img width="200" height="200" src="img/nodejs.png"/>
+  <img width="200" height="200" src="img/express.png"/>
+  <img width="200" height="200" src="img/materialui.png"/>
+  <img width="200" height="200" src="img/tailwindcss.png"/>
+  <img width="200" height="200" src="img/csharp.png"/>
+  <img width="200" height="200" src="img/unity.png"/>
+  <img width="200" height="200" src="img/discordjs.png"/>
+  <img width="200" height="200" src="img/discordjs.png"/>
+  <img width="200" height="200" src="img/discordjs.png"/>
+  <img width="200" height="200" src="img/discordjs.png"/>
+</div>
